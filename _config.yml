@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #   Ce site est une inititative personnelle et ne dépend pas
 #   de [La Permanence](https://www.la-permanence.com). Les informations sont données
 #   sans aucune garantie d'exactitute.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""  # "la-permanence-web" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  antoinechoffrut
@@ -31,7 +31,7 @@ show_github_link: false
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 
