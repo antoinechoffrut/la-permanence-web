@@ -24,7 +24,7 @@ zone verte.
 **Rue du Fer à Moulin**
 
 <p align="center">
-<img src="moulin-summary.png" alt="Rue du Fer à Moulin"/>
+<img src="{{site.baseurl}}/assets/moulin-summary.png" alt="Rue du Fer à Moulin"/>
 </p>
 
 ---
@@ -32,5 +32,5 @@ zone verte.
 **Rue d'Alésia**
 
 <p align="center">
-<img src="alesia-summary.png" alt="Rue d'Alésia"/>
+<img src="{{site.baseurl}}/assets/alesia-summary.png" alt="Rue d'Alésia"/>
 </p>
