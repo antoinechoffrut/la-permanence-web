@@ -5,7 +5,7 @@
 layout: home
 ---
 
-**Avertissement.**__
+**Avertissement.**  
 Ce site est une inititative personnelle et ne
 dépend pas de [La Permanence](https://www.la-permanence.com). Les
 informations sont données sans aucune garantie d'exactitute.  
@@ -13,7 +13,7 @@ informations sont données sans aucune garantie d'exactitute.
 ---
 <br>
 **Explications.**
--  Les graphes sont mis à jour toutes les heures.  
+-  Les graphes sont mis à jour à minuit tous les jours.  
 -  La courbe en noir correspond aux données des sept (7) derniers jours.  
 -  Les données historiques (depuis janiver 2019) se concentrent dans la
 zone verte.  
